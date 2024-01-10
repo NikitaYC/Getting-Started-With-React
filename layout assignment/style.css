@@ -1,0 +1,40 @@
+
+.red{
+    width: 100px;
+    height:100px;
+    background-color: red;
+    border: 2px solid black;
+}
+.yellow{
+    width: 100px;
+    height:100px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+.green{
+    width: 100px;
+    height:100px;
+    background-color: green;
+    border: 2px solid black;
+}
+.purple{
+    width: 100px;
+    height:100px;
+    background-color: purple;
+    border: 2px solid black;
+}
+.parent{
+    height: 100px;
+    width: 800px;
+    border: 2px solid black;
+    display: flex;
+    justify-content:center;
+    gap:20px;
+    padding: 20px;
+    background-color: #FFE4C4;
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 30px;
+}
+
+
